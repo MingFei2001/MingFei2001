@@ -22,5 +22,5 @@ Take a look at how i waste my time on ricing my linux desktop.
 # 🗣️ Facts
 + Neovim is the best text editor (Vim is a close second)
 + Linux is the best operating system (Windows is NOT a close second)
-+ React is not a programming language (stop calling yourself a react engineer, you are just a soy dev)
++ React is not a programming language (stop calling yourself a react engineer)
 + Rust is not gonne save you from skill issue (Real G uses only C and made the best OS in the world)
