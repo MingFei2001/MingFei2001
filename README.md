@@ -11,7 +11,7 @@ Bash script made to automate replicating my setup on any Debian-based systems.
 +  [Flasky](https://github.com/MingFei2001/flasky) -
 A CRUD flask application template so i can launch a complete web application in just a few minutes.
 +  [PyCPUTest](https://github.com/MingFei2001/pycputest) -
-A Python script built to stress-test CPU by making it do complex math. (yeah it's quite painful even for computers)
+A Python script built to stress-test CPU by making it do math. (yeah it's quite painful even for computers)
 +  [Colorschema](https://github.com/MingFei2001/colorschema) -
 Documented all kinds of colorscheme in many different formats so i can RICE my setup faster. (with AI of course)
 +  [Cloud Automation](https://github.com/MingFei2001/capstone-website) -
