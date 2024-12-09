@@ -13,7 +13,7 @@ A CRUD flask application template so i can launch a complete web application in 
 +  [PyCPUTest](https://github.com/MingFei2001/pycputest) -
 A Python script built to stress-test CPU by making it do complex math. (yeah it's quite painful even for computers)
 +  [Colorschema](https://github.com/MingFei2001/colorschema) -
-Documents of color code in many different formats for all kinds of colorscheme so that i can RICE my setup faster. (with AI of course)
+Documented all kinds of colorscheme in many different formats so i can RICE my setup faster. (with AI of course)
 +  [Cloud Automation](https://github.com/MingFei2001/capstone-website) -
 Did a capstone on setting up a scalable and reliable web application with AWS. (Hated their interface ngl)
 +  [Dotfiles](https://github.com/MingFei2001/dotfiles) -
