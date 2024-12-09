@@ -6,7 +6,8 @@ IT professional by trade, tech enthusiast by passion. Experienced in server tech
 
 # 🛠 Take a look at my projects
 
-## [Bundles](https://github.com/MingFei2001/bundles)
+**[Bundles](https://github.com/MingFei2001/bundles)**
+
 Bash script made to automate replicating my setup on any Debian-based systems.
 
 ## [Flasky](https://github.com/MingFei2001/flasky)
