@@ -4,7 +4,7 @@
 
 IT professional by trade, tech enthusiast by passion. Experienced in server technology, Linux administration, and backend development.
 
-# 🛠 Take a look at my projects
+## 🛠 Take a look at my projects
 
 +  [Bundles](https://github.com/MingFei2001/bundles) -
 Bash script made to automate replicating my setup on any Debian-based systems.
@@ -19,7 +19,7 @@ Did a capstone on setting up a scalable and reliable web application with AWS. (
 +  [Dotfiles](https://github.com/MingFei2001/dotfiles) -
 Take a look at how i waste my time on ricing my linux desktop.
 
-# 🗣️ Facts
+## 🗣️ Facts
 + Neovim is the best text editor (Vim is a close second)
 + Linux is the best operating system (Windows is NOT a close second)
 + React is not a programming language (stop calling yourself a react engineer)
