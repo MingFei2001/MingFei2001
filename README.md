@@ -24,3 +24,7 @@ Take a look at how i waste my time on ricing my linux desktop.
 + **Linux** is the best operating system (*Windows is **NOT** a close second*)
 + React is **NOT** a programming language (*stop calling yourself a react engineer*)
 + Rust isn't gonne save you from skill issue (*Real G uses only C and made **Linux**, the best OS in the world*)
+
+## Contact Me
++ Email: minfei2001@gmail.com
++ WhatsApp: +65 91743148
