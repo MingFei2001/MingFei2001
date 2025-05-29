@@ -18,7 +18,7 @@ Set up a scalable and reliable web application with AWS.
 Check out how I waste my time on ricing my linux desktop.
 
 ## 🗣️ Facts
-+ **Neovim** is the best text editor (*Vim is a close second*)
++ **Neovim** is the best text editor (*Zed is a close second*)
 + **Linux** is the best operating system (*Windows is **NOT** a close second*)
 +
 + Rust isn't gonne save you from skill issue (*Real G uses only C and made **Linux***)
