@@ -27,3 +27,4 @@ Check out how I waste my time on ricing my linux desktop.
 ## Contact Me
 + Email: minfei2001@gmail.com
 + Discord: _mingfei
++ Instagram: [tham_ming_fei](https://www.instagram.com/tham_ming_fei/)
