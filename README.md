@@ -7,23 +7,21 @@ IT professional by trade, tech enthusiast by passion. Experienced in Server Tech
 ## 🛠 Take a look at my projects
 
 +  [Bundles](https://github.com/MingFei2001/bundles) -
-Bash script made to automate replicating my setup on any Debian-based systems.
+Bash script I made to automate setting up a Debian-based systems.
 +  [Flasky](https://github.com/MingFei2001/flasky) -
-A CRUD flask application template so i can launch a complete web application in just a few minutes.
-+  [PyCPUTest](https://github.com/MingFei2001/python-script) -
-A Python script built to stress-test CPU by making it do math. (yeah it's quite painful even for computers)
+*WIP* A CRUD flask application template to launch a complete web application in minutes.
 +  [Colorschema](https://github.com/MingFei2001/colorschema) -
 Documented colorschemes in several formats so i can RICE my setup faster. (with AI of course)
 +  [Capstone - Cloud Automation](https://github.com/MingFei2001/capstone-website) -
-Did a capstone on setting up a scalable and reliable web application with AWS. (Hated their interface ngl)
+Set up a scalable and reliable web application with AWS.
 +  [Dotfiles](https://github.com/MingFei2001/dotfiles) -
-Take a look at how i waste my time on ricing my linux desktop.
+Check out how I waste my time on ricing my linux desktop.
 
 ## 🗣️ Facts
 + **Neovim** is the best text editor (*Vim is a close second*)
 + **Linux** is the best operating system (*Windows is **NOT** a close second*)
-+ React is **NOT** a programming language (*stop calling yourself a react engineer*)
-+ Rust isn't gonne save you from skill issue (*Real G uses only C and made **Linux**, the best OS in the world*)
++
++ Rust isn't gonne save you from skill issue (*Real G uses only C and made **Linux***)
 
 ## Contact Me
 + Email: minfei2001@gmail.com
