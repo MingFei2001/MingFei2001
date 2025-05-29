@@ -25,4 +25,4 @@ Check out how I waste my time on ricing my linux desktop.
 
 ## Contact Me
 + Email: minfei2001@gmail.com
-+ WhatsApp: +65 91743148
++ Discord: _mingfei
