@@ -3,7 +3,11 @@
 > Obsessed with tools and technology and wasted too much time on engineering solutions instead of doing the original task.
 
 <div align="center" >
-    <b>IT professional by trade, tech enthusiast by passion.</b>
+    <b>
+        <i>
+            IT professional by trade, tech enthusiast by passion.
+        </i>
+    </b>
 </div>
 
 <div align="center">
