@@ -16,6 +16,8 @@ A tiny C program to print Pokemon sprite on your terminal.
 Set up a scalable and reliable web application with AWS.
 +  [Dotfiles](https://github.com/MingFei2001/dotfiles) -
 Check out how I waste my time on ricing my linux desktop.
++  [Pandoc CSS](https://github.com/MingFei2001/pandoc-css) -
+CSS stylesheets to theme your Markdown documents with Pandoc.
 
 ## 🗣️ Facts
 + **Neovim** is the best text editor (*Zed is a close second*)
