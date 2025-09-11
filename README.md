@@ -2,8 +2,8 @@
 
 > Obsessed with tools and technology and wasted too much time on engineering solutions instead of doing the original task.
 
-<div align="center" style="font-style: italic; font-weight: bold;">
-    IT professional by trade, tech enthusiast by passion.
+<div align="center" >
+    <p style="font-style: italic; font-weight: bold;">IT professional by trade, tech enthusiast by passion.</p>
 </div>
 
 <div align="center">
