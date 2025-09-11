@@ -22,7 +22,7 @@ CSS stylesheets to theme your Markdown documents with Pandoc.
 ## 🗣️ Facts
 + **Neovim** is the best text editor (*Zed is a close second*)
 + **Linux** is the best operating system (*Windows is **NOT** a close second*)
-+ Rust isn't gonne save you from skill issue (*Real G uses only C and made **Linux***)
++ Rust isn't gonna save you from skill issue (*Real G uses only C and made **Linux***)
 
 ## Contact Me
 + Email: minfei2001@gmail.com
