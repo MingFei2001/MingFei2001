@@ -2,7 +2,9 @@
 
 > Obsessed with tools and technology and wasted too much time on engineering solutions instead of doing the original task.
 
-IT professional by trade, tech enthusiast by passion. Experienced in Server Technology, Linux Administration, and Backend Development.
+<div align="center">IT professional by trade, tech enthusiast by passion.</div>
+
+<div align="center">Specialized in Server Technology, Linux Administration, and Backend Development.</div>
 
 ## 🛠 Take a look at my projects
 
