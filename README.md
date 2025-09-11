@@ -10,10 +10,6 @@
 
 +  [Bundles](https://github.com/MingFei2001/bundles) -
 Bash script I made to automate setting up a Debian-based systems.
-+  [Flasky](https://github.com/MingFei2001/flasky) -
-*WIP* A CRUD flask application template to launch a complete web application in minutes.
-+  [Colorschema](https://github.com/MingFei2001/colorschema) -
-Documented colorschemes in several formats so i can RICE my setup faster.
 +  [PokeCLI](https://github.com/MingFei2001/pokecli) -
 A tiny C program to print Pokemon sprite on your terminal.
 +  [Capstone - Cloud Automation](https://github.com/MingFei2001/capstone-website) -
