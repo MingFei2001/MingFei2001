@@ -26,6 +26,9 @@ Set up a scalable and reliable web application with AWS.
 Check out how I waste my time on ricing my linux desktop.
 +  [Pandoc CSS](https://github.com/MingFei2001/pandoc-css) -
 CSS stylesheets to theme your Markdown documents with Pandoc.
++  [HeyAPI](https://github.com/MingFei2001/HeyAPI) -
+A web server built with golang to explore the backend programming and API endpoints
+
 
 ## 🗣️ Facts
 + **Neovim** is the best text editor (*Zed is a close second*)
