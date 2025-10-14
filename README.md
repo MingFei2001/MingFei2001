@@ -18,16 +18,16 @@
 
 +  [Bundles](https://github.com/MingFei2001/bundles) -
 Bash script I made to automate setting up a Debian-based systems.
++  [HeyAPI](https://github.com/MingFei2001/HeyAPI) -
+A web server built with golang to explore the backend programming and API endpoints
 +  [PokeCLI](https://github.com/MingFei2001/pokecli) -
 A tiny C program to print Pokemon sprite on your terminal.
 +  [Capstone - Cloud Automation](https://github.com/MingFei2001/capstone-website) -
 Set up a scalable and reliable web application with AWS.
 +  [Dotfiles](https://github.com/MingFei2001/dotfiles) -
-Check out how I waste my time on ricing my linux desktop.
+Check out how I waste my time on ricing my Linux desktop.
 +  [Pandoc CSS](https://github.com/MingFei2001/pandoc-css) -
 CSS stylesheets to theme your Markdown documents with Pandoc.
-+  [HeyAPI](https://github.com/MingFei2001/HeyAPI) -
-A web server built with golang to explore the backend programming and API endpoints
 
 
 ## 🗣️ Facts
