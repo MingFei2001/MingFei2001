@@ -28,6 +28,8 @@ Set up a scalable and reliable web application with AWS.
 Check out how I waste my time on ricing my Linux desktop.
 +  [Pandoc CSS](https://github.com/MingFei2001/pandoc-css) -
 CSS stylesheets to theme your Markdown documents with Pandoc.
++  [tsc](https://github.com/MingFei2001/tsc) -
+A Tailscale CLI wrapper to simplify frequently used command (e.g. `up`, `down`, `status`)
 
 
 ## 🗣️ Facts
